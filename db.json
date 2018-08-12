@@ -1,0 +1,11 @@
+{
+  "config": [
+    {
+      "id": 1,
+      "name": "hello config",
+      "method":"GET",
+      "url":"http://test.se"
+    }
+  ]
+
+}
